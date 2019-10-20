@@ -5,6 +5,6 @@ import org.junit.runners.Suite.SuiteClasses;
 
 @RunWith(Suite.class)
 @SuiteClasses({ junittest.class })
-public class AllTests {
+class AllTests {
 
 }
